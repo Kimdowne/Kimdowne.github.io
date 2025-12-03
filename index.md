@@ -15,24 +15,45 @@ layout: default
 
 # **Courses**
 
-## [객체 지향 프로그래밍](./notes/Object_Oriented_Programming/)
+## [소프트웨어개발론PBL](./notes/Object_Oriented_Programming/)
 - **Professor: 이선아 교수님**
 - **Type: 필수 전공과목**
 - **참고 서적**
-    - 주 교재: 객체지향 파이썬 (어브 캘브)
-    - 부 교재: 어서와 파이썬은 처음이지! (천인국)
+    - 주 교재: 소프트웨어공학 이론과 실제 (한빛아카데미)
+    - 부 교재: 소프트웨어공학의 모든 것 (생능출판)
 <br>
 
-**"파이썬의 기본적인 코드와, 객체 지향에 대한 개념을 학습하고, 이를 통한 활용으로 프로그래밍 역량을 기를 수 있는 과목."**
+<br>
+
+## [컴퓨터구조](./notes/Object_Oriented_Programming/)
+- **Professor: 김재호 교수님**
+- **Type: 선택 전공과목**
+- **참고 서적**
+    - 주 교재: Computer Organization and Design RISC-V Edition (Morgan Kaufmann)
+    - 부 교재: 수업 계획서 참조...
+<br>
 
 <br>
 
-## **기계학습**
+## [문제해결알고리즘](./notes/Object_Oriented_Programming/)
+- **Professor: 안성수 교수님**
+- **Type: 선택 전공과목**
+- **참고 서적**
+    - 주 교재: Data Structures and Algorithm Analsis in Java (Mark Allen Weiss)
+    - 부 교재: C++를 이용한 데이터 구조 및 알고리즘 분석 (김현철 외 4명)
+<br>
 
-## **생활법률**
+<br>
 
-## **자료구조PBL**
+## [Linux시스템프로그래밍](./notes/Object_Oriented_Programming/)
+- **Professor: 이중렬 교수님**
+- **Type: 선택 전공과목**
+- **참고 서적**
+    - 주 교재: Linux Programming (Robert Love)
+    - 부 교재: 모두의 리눅스
+<br>
 
+<br>
 ## **컴퓨팅 사고와 코딩**
 
 ## **한국의 전통 사상과 민족 문화**
